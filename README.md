@@ -1,16 +1,16 @@
-# ðŸ“‹ Compliance For Research Analysts
+# Compliance For Research Analysts
 
 > An internship assignment project developed for **Infotech Services** â€” a professional, responsive landing page focused on compliance guidance for research analysts.
 
 ---
 
-## ðŸ–¥ï¸ Live Preview
+## Live Preview
 
 Open `index.html` (or `file.html`) directly in any modern browser â€” no build step required.
 
 ---
 
-## ðŸ“ Project Structure
+##Project Structure
 
 ```
 compliance-research-analysts/
@@ -23,21 +23,21 @@ compliance-research-analysts/
 
 ---
 
-## ðŸš€ Features
+## Features
 
-- âœ… **Sticky Navigation Bar** â€” Smooth scroll navigation with active link highlighting
-- âœ… **Hero Section** â€” Eye-catching hero with headline, subtext, feature checklist, and CTA buttons
-- âœ… **SVG Illustration** â€” Custom inline SVG hero illustration (no external image dependencies)
-- âœ… **Rating Badge** â€” Floating UI badge component inside the hero
-- âœ… **Responsive Design** â€” Mobile-friendly layout with hamburger menu for smaller screens
-- âœ… **Smooth Scroll** â€” CSS `scroll-behavior: smooth` for seamless in-page navigation
-- âœ… **Custom Fonts** â€” Uses Google Fonts (`Manrope` and `Plus Jakarta Sans`)
-- âœ… **Modern UI** â€” Clean design with CSS variables for consistent theming (blue accent palette)
-- âœ… **Hover Animations** â€” Buttons and nav links feature smooth hover transitions
+-  **Sticky Navigation Bar** ” Smooth scroll navigation with active link highlighting
+- **Hero Section** ” Eye-catching hero with headline, subtext, feature checklist, and CTA buttons
+- **SVG Illustration** ” Custom inline SVG hero illustration (no external image dependencies)
+- **Rating Badge** ” Floating UI badge component inside the hero
+- **Responsive Design** ” Mobile-friendly layout with hamburger menu for smaller screens
+- **Smooth Scroll** ” CSS `scroll-behavior: smooth` for seamless in-page navigation
+- **Custom Fonts** ” Uses Google Fonts (`Manrope` and `Plus Jakarta Sans`)
+- **Modern UI** ” Clean design with CSS variables for consistent theming (blue accent palette)
+- **Hover Animations** ” Buttons and nav links feature smooth hover transitions
 
 ---
 
-## ðŸŽ¨ Design System
+## Design System
 
 | Token | Value | Usage |
 |---|---|---|
@@ -51,7 +51,7 @@ compliance-research-analysts/
 
 ---
 
-## ðŸ› ï¸ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -63,7 +63,7 @@ compliance-research-analysts/
 
 ---
 
-## âš™ï¸ How to Run
+##  How to Run
 
 1. **Clone or download** this repository.
 2. Open the `index.html` (or `file.html`) file in your browser:
@@ -77,16 +77,16 @@ compliance-research-analysts/
 
 ---
 
-## ðŸ“± Responsive Behavior
+## Responsive Behavior
 
 | Screen Size | Layout |
 |---|---|
-| Desktop (â‰¥ 768px) | Two-column hero, full nav links visible |
+| Desktop (< 768px) | Two-column hero, full nav links visible |
 | Mobile (< 768px) | Single-column layout, hamburger menu |
 
 ---
 
-## ðŸ¢ Internship Details
+## Internship Details
 
 - **Organization:** Infotech Services
 - **Assignment Type:** Front-end Web Development
@@ -94,7 +94,7 @@ compliance-research-analysts/
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## » Author
 
 **Vikram Singh**
 - GitHub: [@Babamosie333](https://github.com/Babamosie333)
@@ -102,6 +102,6 @@ compliance-research-analysts/
 
 ---
 
-## ðŸ“„ License
+## License
 
 This project was created as part of an internship assignment for **Infotech Services**. All rights reserved.
